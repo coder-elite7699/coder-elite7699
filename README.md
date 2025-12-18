@@ -1,27 +1,15 @@
 
 # Pradeep Kumar
 ### About Me
-I am currently pursuing a B.Tech in Computer Science and Engineering, where my fascination with how computers fundamentally operate drives me to explore the field deeply. I am particularly drawn to low-level programming, which allows me to engage with the core workings of machines. My interest in mathematics has further fueled my curiosity, leading me to explore the dynamic field of Machine Learning. I’m excited by the challenges and opportunities in this area and eager to contribute to its ongoing advancements.
+Studied Computer Science and Egineering. Worked some time as Salesforce Developer. Now Unemployed.
 
 ### What you will find in my Github.
-👉 Some webpages that I developed while I was learning HTML, CSS and Javascript.
-
-👉 Some machine learning models.
-
-👉 Computer Science core papers notes such as Operating system, Computer Oraginization and Arcitecture(COA) etc.
-
-
+1. Some LWC code, related to Salesforce
+2. Some apex class, also related to Salesforce.
+3. C/C++ code
 
 ### What are my Tech Stacks.
-
-</> HTML5
-
-</> CSS
-
-</> Javascript
-
-</> C++ for DSA Problem Solving
-
-</> Python
-
-</>Git and Github
+1. C/C++ Language : Like low level
+2. JavaScript : Just to make web pages
+3. Apex Language
+4. Learning React.js
